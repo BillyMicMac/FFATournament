@@ -2,7 +2,8 @@ name: FFATourney
 version: ${project.version}
 main: me.alivesteve.ffatourney.FFATourney
 api-version: 1.16
-description: Epic gaming and funky coding makes people cool and idk yea
+description: FFA tournament for BillyMicMac
+authors: [ AliveSteve ]
 commands:
   startevent:
     description: Start FFA
