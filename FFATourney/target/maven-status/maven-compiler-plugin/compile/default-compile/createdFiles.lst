@@ -1,0 +1,6 @@
+me\alivesteve\ffatourney\Utilities\Utilities.class
+me\alivesteve\ffatourney\FFATourney.class
+me\alivesteve\ffatourney\Listeners\PlayerJoin.class
+me\alivesteve\ffatourney\Commands\StartEvent.class
+me\alivesteve\ffatourney\Commands\ResetEvent.class
+me\alivesteve\ffatourney\Listeners\PlayerDeath.class

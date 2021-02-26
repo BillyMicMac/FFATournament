@@ -1,0 +1,13 @@
+name: FFATourney
+version: ${project.version}
+main: me.alivesteve.ffatourney.FFATourney
+api-version: 1.16
+description: Epic gaming and funky coding makes people cool and idk yea
+commands:
+  startevent:
+    description: Start FFA
+    usage: /<command>
+
+  resetevent:
+    description: Reset FFA
+    usage: /<command>
