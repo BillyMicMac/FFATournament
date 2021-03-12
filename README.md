@@ -16,4 +16,4 @@ Get the source code in IntelliJ and change the location object in the StartEvent
 /resetevent - Resets the event
 
 ## Extra notes
-This plugin is not plug and play - this is mostly help for anyone who wants to do something similar to this. If you want more help, contact me on Discord at AliveSteve#8899. If this gets 10 stars ill make it automatic and configurable
+This plugin is not plug and play - this is mostly help for anyone who wants to do something similar to this. If you want more help, contact me on Discord at AliveSteve#8899. If this gets 10 stars ill make it automatic and configurable.
