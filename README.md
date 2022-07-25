@@ -1,3 +1,5 @@
+## Wouldn't recommend using. Has some security issues that I never bothered to fix
+
 # FFATournament
 
 
